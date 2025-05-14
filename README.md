@@ -118,7 +118,7 @@ To ensure correctness across implementations:
 
 ```
 
-📦 attention-mechanism-hpc
+📦 Attention-Mechanism-HPC
 ├── attention_cuda.cu        # CUDA kernel implementations
 ├── attention_openmp.cpp     # CPU-parallelized OpenMP versions
 ├── attention_sequential.cpp # Baseline C++ implementations
